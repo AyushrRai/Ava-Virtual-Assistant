@@ -1,0 +1,13 @@
+ i am fit
+aloe vera
+
+
+'''elif "send email" in request:
+pwk.send_mail("ayushr.ai0024@gmail.com","8577@Ayushr","Hello","How are you","ayushr.9378@gmaail.com")'''
+write about TajMahal
+my name is Ayushr Rai
+manmohan is a good boy
+add   Ava - Your Virtual Assistant
+add  openAI
+add  Hello how are you
+Durgesh ji gentle
